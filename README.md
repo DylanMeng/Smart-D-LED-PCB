@@ -48,11 +48,11 @@ Reviewed by Paul Brière
 
 ### [ Smart D-LED (Tower - Clear Edition)](https://github.com/DylanMeng/Smart-D-LED-Tower)
 
-https://www.youtube.com/embed/Sv6iBumc9ZM
+https://youtu.be/Sv6iBumc9ZM
 
 ### [ Smart D-LED (Remote Control)](https://dylogic-design.com/)
 
-https://www.youtube.com/embed/K5LZp9m322Y
+https://youtu.be/K5LZp9m322Y
 
 ## 
 
