@@ -47,10 +47,12 @@ Reviewed by Paul Brière
 ### [ Smart D-LED (API)](https://github.com/DylanMeng/Smart-D-LED-API)
 
 ### [ Smart D-LED (Tower - Clear Edition)](https://github.com/DylanMeng/Smart-D-LED-Tower)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sv6iBumc9ZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/Sv6iBumc9ZM
 
 ### [ Smart D-LED (Remote Control)](https://dylogic-design.com/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K5LZp9m322Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/K5LZp9m322Y
 
 ## 
 
