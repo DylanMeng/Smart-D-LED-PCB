@@ -10,8 +10,8 @@ Your donation will help me continue the development and support of Smart-D-LED.
 ## 
 The goal of Smart D-LED is to create a universal digital led strip controller that is user-friendly, reliable and awesome. 
 
-Designed by Dylan Meng
-Reviewed by Paul Brière
+### Designed by Dylan Meng
+### Reviewed by Paul Brière
 
 **Features**
  - Controlled via Wi-Fi
@@ -39,8 +39,11 @@ Reviewed by Paul Brière
 	- Optimize DC jack footprint 
 	- Add direction on SWD/JTAG connector footprint
 	- Prepare/Optimize for automated SMT assembly
+	- Remove reset external circuit
+	- Remove debug resistors
+	- Verify/Update BOM
  - 1.0.0
-	 - Inital release
+	 - Inital release (PROTOTYPE)
 	
 ## Related projects
 
