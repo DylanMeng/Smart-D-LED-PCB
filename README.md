@@ -1,9 +1,33 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#smart-d-led-pcb">Smart D-LED (PCB)</a>
+<ul>
+<li></li>
+<li><a href="#release-history">Release History</a></li>
+<li><a href="#related-projects">Related projects</a></li>
+<li></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="smart-d-led-pcb">Smart D-LED (PCB)</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="smart-d-led-pcb">Smart D-LED (PCB)</h1>
 <p><img src="https://lh3.googleusercontent.com/56aI-8e_spPzJCNZfLMgKNGMolLUiGaGQdMBBa0Bixeeup7TWB--QamCgDbBYty2Al9ejCQA2Avo" alt="PCB"></p>
 <p>Software, hardware and product development can be time consuming and expensive. If you appreciate the development of Smart-D-LED or any of my projects please consider donating.</p>
 <p>Your donation will help me continue the development and support of Smart-D-LED.</p>
@@ -68,3 +92,8 @@ Reviewed by Paul Brière</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K5LZp9m322Y" allowfullscreen=""></iframe>
 <h2 id="section-1"></h2>
 
+    </div>
+  </div>
+</body>
+
+</html>
