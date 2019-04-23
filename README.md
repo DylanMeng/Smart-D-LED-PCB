@@ -1,99 +1,56 @@
-<!DOCTYPE html>
-<html>
+﻿# Smart D-LED (PCB)
+![PCB](https://lh3.googleusercontent.com/56aI-8e_spPzJCNZfLMgKNGMolLUiGaGQdMBBa0Bixeeup7TWB--QamCgDbBYty2Al9ejCQA2Avo)
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
+Software, hardware and product development can be time consuming and expensive. If you appreciate the development of Smart-D-LED or any of my projects please consider donating.
 
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#smart-d-led-pcb">Smart D-LED (PCB)</a>
-<ul>
-<li></li>
-<li><a href="#release-history">Release History</a></li>
-<li><a href="#related-projects">Related projects</a></li>
-<li></li>
-</ul>
-</li>
-</ul>
+Your donation will help me continue the development and support of Smart-D-LED.
 
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="smart-d-led-pcb">Smart D-LED (PCB)</h1>
-<p><img src="https://lh3.googleusercontent.com/56aI-8e_spPzJCNZfLMgKNGMolLUiGaGQdMBBa0Bixeeup7TWB--QamCgDbBYty2Al9ejCQA2Avo" alt="PCB"></p>
-<p>Software, hardware and product development can be time consuming and expensive. If you appreciate the development of Smart-D-LED or any of my projects please consider donating.</p>
-<p>Your donation will help me continue the development and support of Smart-D-LED.</p>
-<p><a href="https://www.paypal.me/DMeng"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg" alt="Donate"></a></p>
-<h2 id="section"></h2>
-<p>The goal of Smart D-LED is to create a universal digital led strip controller that is user-friendly, reliable and awesome.</p>
-<p>Designed by Dylan Meng<br>
-Reviewed by Paul Brière</p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Controlled via Wi-Fi</li>
-<li>IP address auto-discovery</li>
-<li>I2S Microphone</li>
-<li>SPI Flash (used for over the air update)</li>
-<li>SWD programming port</li>
-<li>2x User button</li>
-<li>2x Port  for 3-wire or 4-wire digital led strip
-<ul>
-<li>duplicate – same animation on both ports</li>
-</ul>
-</li>
-<li>5V (DC  Jack)</li>
-</ul>
-<p><strong>Specifications</strong></p>
-<ul>
-<li>
-<p>Power option</p>
-<ul>
-<li>Internal power (DC Jack)
-<ul>
-<li>7A max!</li>
-</ul>
-</li>
-<li>External power (D-LED port)</li>
-</ul>
-</li>
-<li>
-<p>More informations about the PCB will be added soon!</p>
-</li>
-</ul>
-<h2 id="release-history">Release History</h2>
-<ul>
-<li>1.0.1 (TO-DO)
-<ul>
-<li>Optimize micro USB connector footprint</li>
-<li>Optimize DC jack footprint</li>
-<li>Add direction on SWD/JTAG connector footprint</li>
-<li>Prepare/Optimize for automated SMT assembly</li>
-</ul>
-</li>
-<li>1.0.0
-<ul>
-<li>Inital release</li>
-</ul>
-</li>
-</ul>
-<h2 id="related-projects">Related projects</h2>
-<h3 id="smart-d-led-api"><a href="https://github.com/DylanMeng/Smart-D-LED-API"> Smart D-LED (API)</a></h3>
-<h3 id="smart-d-led-tower---clear-edition"><a href="https://github.com/DylanMeng/Smart-D-LED-Tower"> Smart D-LED (Tower - Clear Edition)</a></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sv6iBumc9ZM" allowfullscreen=""></iframe>
-<h3 id="smart-d-led-remote-control"><a href="https://dylogic-design.com/"> Smart D-LED (Remote Control)</a></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K5LZp9m322Y" allowfullscreen=""></iframe>
-<h2 id="section-1"></h2>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/DMeng)
 
-    </div>
-  </div>
-</body>
+## 
+The goal of Smart D-LED is to create a universal digital led strip controller that is user-friendly, reliable and awesome. 
 
-</html>
+Designed by Dylan Meng
+Reviewed by Paul Brière
+
+**Features**
+ - Controlled via Wi-Fi
+ - IP address auto-discovery
+ - I2S Microphone
+ - SPI Flash (used for over the air update)
+ - SWD programming port
+ - 2x User button
+ - 2x Port  for 3-wire or 4-wire digital led strip 
+	 - duplicate – same animation on both ports
+ - 5V (DC  Jack)
+ 
+**Specifications**
+- Power option
+	- Internal power (DC Jack) 
+		- 7A max!
+	- External power (D-LED port) 
+
+- More informations about the PCB will be added soon!
+
+## Release History
+
+- 1.0.1 (TO-DO)
+	- Optimize micro USB connector footprint  
+	- Optimize DC jack footprint 
+	- Add direction on SWD/JTAG connector footprint
+	- Prepare/Optimize for automated SMT assembly
+ - 1.0.0
+	 - Inital release
+	
+## Related projects
+
+### [ Smart D-LED (API)](https://github.com/DylanMeng/Smart-D-LED-API)
+
+### [ Smart D-LED (Tower - Clear Edition)](https://github.com/DylanMeng/Smart-D-LED-Tower)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sv6iBumc9ZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [ Smart D-LED (Remote Control)](https://dylogic-design.com/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K5LZp9m322Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 
+
