@@ -1,4 +1,17 @@
-﻿# Smart D-LED (PCB)
+﻿
+## Related projects
+
+### [ Smart D-LED (API)](https://github.com/DylanMeng/Smart-D-LED-API)
+
+### [ Smart D-LED (Tower - Clear Edition)](https://github.com/DylanMeng/Smart-D-LED-Tower)
+
+https://youtu.be/Sv6iBumc9ZM
+
+### [ Smart D-LED (Remote Control)](https://dylogic-design.com/)
+
+https://youtu.be/K5LZp9m322Y
+
+# Smart D-LED (PCB)
 ![PCB](https://lh3.googleusercontent.com/56aI-8e_spPzJCNZfLMgKNGMolLUiGaGQdMBBa0Bixeeup7TWB--QamCgDbBYty2Al9ejCQA2Avo)
 
 Software, hardware and product development can be time consuming and expensive. If you appreciate the development of Smart-D-LED or any of my projects please consider donating.
@@ -45,17 +58,5 @@ The goal of Smart D-LED is to create a universal digital led strip controller th
  - 1.0.0
 	 - Inital release (PROTOTYPE)
 	
-## Related projects
 
-### [ Smart D-LED (API)](https://github.com/DylanMeng/Smart-D-LED-API)
-
-### [ Smart D-LED (Tower - Clear Edition)](https://github.com/DylanMeng/Smart-D-LED-Tower)
-
-https://youtu.be/Sv6iBumc9ZM
-
-### [ Smart D-LED (Remote Control)](https://dylogic-design.com/)
-
-https://youtu.be/K5LZp9m322Y
-
-## 
 
